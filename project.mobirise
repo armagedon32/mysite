@@ -262,10 +262,10 @@
         {
           "_params": {
             "googleMap": {
-              "address": "0228 Purok 1 Mangohig Calapacuan Subuc Zambales",
-              "placeId": "",
-              "state": "not found",
-              "stateDetails": "Not found"
+              "address": "Subic National High School",
+              "placeId": "ChIJh15knu95ljMRfmkWYcTUcH4",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "_tags": [
