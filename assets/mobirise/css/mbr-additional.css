@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
+
+#dropdown-menu-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1 .navbar-brand a {
+  font-family: 'Droid Serif', serif;
+  font-size: 60px;
+}
+#dropdown-menu-1 .nav .link,
+#dropdown-menu-1 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Droid Serif', serif;
+}
+#dropdown-menu-1 .navbar,
+#dropdown-menu-1 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1 .dropdown-menu a:hover,
+#dropdown-menu-1 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-1 .navbar-toggler {
+  color: #ffffff;
+}
+#header1-2 P {
+  color: #060606;
+}
+#header1-2 H1 {
+  color: #ffffff;
+}
+#header1-2 B {
+  font-size: 30px;
+}
+#header1-2 I {
+  color: #ffffff;
+}
+#gallery2-d SMALL {
+  text-align: center;
+}
+
+
+#dropdown-menu-9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-9 .navbar-brand a {
+  font-family: 'Droid Serif', serif;
+  font-size: 60px;
+}
+#dropdown-menu-9 .nav .link,
+#dropdown-menu-9 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Droid Serif', serif;
+}
+#dropdown-menu-9 .navbar,
+#dropdown-menu-9 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-9 .dropdown-menu a:hover,
+#dropdown-menu-9 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-9 .navbar-toggler {
+  color: #ffffff;
+}
