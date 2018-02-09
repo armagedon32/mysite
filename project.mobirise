@@ -78,8 +78,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARMAGEDON 32</a>",
@@ -349,8 +350,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARMAGEDON 32</a>",
