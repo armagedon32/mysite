@@ -168,6 +168,27 @@
                 "thumb": "@PROJECT_PATH@/assets/images/download-4-225x225-225x225.jpg",
                 "alt": "",
                 "caption": "DepEd Logo",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-4136-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4136-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "DepEd Logo",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-4140-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4140-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "DepEd Logo",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-4160-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4160-2000x1335-800x534.jpg",
+                "alt": "",
+                "caption": "DepEd Logo",
                 "active": true
               }
             ]
